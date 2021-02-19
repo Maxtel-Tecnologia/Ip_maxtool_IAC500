@@ -113,8 +113,8 @@ RootDir=C:\Program Files (x86)\Borland\Delphi7\Bin\
 IncludeVerInfo=1
 AutoIncBuild=0
 MajorVer=1
-MinorVer=14
-Release=5
+MinorVer=18
+Release=0
 Build=0
 Debug=0
 PreRelease=0
@@ -125,14 +125,14 @@ Locale=1046
 CodePage=1252
 [Version Info Keys]
 CompanyName=Maxtel Tecnologia Ltda
-FileDescription=Viber - Chamado Técnico
-FileVersion=1.14.5.0
-InternalName=Viber
+FileDescription=Ip_maxtool IAC500
+FileVersion=1.18.0.0
+InternalName=Ip_maxtool
 LegalCopyright=Maxtel
 LegalTrademarks=
 OriginalFilename=
 ProductName=
-ProductVersion=1.14
+ProductVersion=
 [Excluded Packages]
 c:\program files (x86)\borland\delphi7\Projects\Bpl\QR4DesignD7.bpl=QuickReport4 Components
 c:\program files (x86)\borland\delphi7\Bin\dcloffice2k70.bpl=Microsoft Office 2000 Sample Automation Server Wrapper Components
@@ -141,6 +141,9 @@ C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\Virdi4.bpl=BioVirdi 4
 C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\Virdi3.bpl=BioVirdi USB
 C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\tscap32.bpl=tscap32 Video Capture Component
 C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\ZK.bpl=Biometria ZK
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [Exception Log]
 EurekaLog Version=423
 Activate=0
