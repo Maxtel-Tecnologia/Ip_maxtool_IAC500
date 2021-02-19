@@ -1,4 +1,4 @@
-# Ip_maxtool
+# Ip maxtool IAC500
 
 Software exemplo de comunicação e configuração da placa controladora IAC-500.
 
