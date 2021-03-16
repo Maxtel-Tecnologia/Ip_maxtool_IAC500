@@ -1,1 +1,0 @@
-{$Message Error 'ICSDEF.INC file is deprecated. Use ICSDEFS.INC instead.'}
